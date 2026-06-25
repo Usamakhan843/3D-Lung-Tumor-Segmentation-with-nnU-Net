@@ -1,4 +1,3 @@
-# 3D-Lung-Tumor-Segmentation-with-nnU-Net
 # 3D Lung Tumor Segmentation with nnU-Net (MSD Task06 Lung)
 
 3D volumetric tumor segmentation on chest CT using the self-configuring **nnU-Net v2**
