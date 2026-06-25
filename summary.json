@@ -1,0 +1,234 @@
+{
+    "foreground_mean": {
+        "Dice": 0.7719724631218181,
+        "FN": 3621.769230769231,
+        "FP": 2537.923076923077,
+        "IoU": 0.6477909299645563,
+        "TN": 68157193.46153846,
+        "TP": 14251.76923076923,
+        "n_pred": 16789.69230769231,
+        "n_ref": 17873.53846153846
+    },
+    "mean": {
+        "1": {
+            "Dice": 0.7719724631218181,
+            "FN": 3621.769230769231,
+            "FP": 2537.923076923077,
+            "IoU": 0.6477909299645563,
+            "TN": 68157193.46153846,
+            "TP": 14251.76923076923,
+            "n_pred": 16789.69230769231,
+            "n_ref": 17873.53846153846
+        }
+    },
+    "metric_per_case": [
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8869729024779017,
+                    "FN": 929,
+                    "FP": 631,
+                    "IoU": 0.7969014451243328,
+                    "TN": 148627967,
+                    "TP": 6121,
+                    "n_pred": 6752,
+                    "n_ref": 7050
+                }
+            },
+            "prediction_file": "/home/usama/nnunet/nnUNet_results/Dataset006_Lung/nnUNetTrainer_250epochs__nnUNetPlans__3d_lowres/fold_0/validation/lung_006.nii.gz",
+            "reference_file": "/home/usama/nnunet/nnUNet_preprocessed/Dataset006_Lung/gt_segmentations/lung_006.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8825903763764472,
+                    "FN": 2384,
+                    "FP": 4248,
+                    "IoU": 0.7898539243955766,
+                    "TN": 63145145,
+                    "TP": 24927,
+                    "n_pred": 29175,
+                    "n_ref": 27311
+                }
+            },
+            "prediction_file": "/home/usama/nnunet/nnUNet_results/Dataset006_Lung/nnUNetTrainer_250epochs__nnUNetPlans__3d_lowres/fold_0/validation/lung_010.nii.gz",
+            "reference_file": "/home/usama/nnunet/nnUNet_preprocessed/Dataset006_Lung/gt_segmentations/lung_010.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.692779914374864,
+                    "FN": 15235,
+                    "FP": 5934,
+                    "IoU": 0.5299642516153384,
+                    "TN": 68112403,
+                    "TP": 23868,
+                    "n_pred": 29802,
+                    "n_ref": 39103
+                }
+            },
+            "prediction_file": "/home/usama/nnunet/nnUNet_results/Dataset006_Lung/nnUNetTrainer_250epochs__nnUNetPlans__3d_lowres/fold_0/validation/lung_033.nii.gz",
+            "reference_file": "/home/usama/nnunet/nnUNet_preprocessed/Dataset006_Lung/gt_segmentations/lung_033.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8744598589947692,
+                    "FN": 2580,
+                    "FP": 732,
+                    "IoU": 0.7769246312386341,
+                    "TN": 77579777,
+                    "TP": 11535,
+                    "n_pred": 12267,
+                    "n_ref": 14115
+                }
+            },
+            "prediction_file": "/home/usama/nnunet/nnUNet_results/Dataset006_Lung/nnUNetTrainer_250epochs__nnUNetPlans__3d_lowres/fold_0/validation/lung_034.nii.gz",
+            "reference_file": "/home/usama/nnunet/nnUNet_preprocessed/Dataset006_Lung/gt_segmentations/lung_034.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.870858951409967,
+                    "FN": 8496,
+                    "FP": 11416,
+                    "IoU": 0.771257897759908,
+                    "TN": 62827510,
+                    "TP": 67138,
+                    "n_pred": 78554,
+                    "n_ref": 75634
+                }
+            },
+            "prediction_file": "/home/usama/nnunet/nnUNet_results/Dataset006_Lung/nnUNetTrainer_250epochs__nnUNetPlans__3d_lowres/fold_0/validation/lung_041.nii.gz",
+            "reference_file": "/home/usama/nnunet/nnUNet_preprocessed/Dataset006_Lung/gt_segmentations/lung_041.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.3811013068245281,
+                    "FN": 2783,
+                    "FP": 2758,
+                    "IoU": 0.23540775493307575,
+                    "TN": 32760753,
+                    "TP": 1706,
+                    "n_pred": 4464,
+                    "n_ref": 4489
+                }
+            },
+            "prediction_file": "/home/usama/nnunet/nnUNet_results/Dataset006_Lung/nnUNetTrainer_250epochs__nnUNetPlans__3d_lowres/fold_0/validation/lung_042.nii.gz",
+            "reference_file": "/home/usama/nnunet/nnUNet_preprocessed/Dataset006_Lung/gt_segmentations/lung_042.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8834128454835785,
+                    "FN": 2078,
+                    "FP": 879,
+                    "IoU": 0.7911723163841808,
+                    "TN": 59230384,
+                    "TP": 11203,
+                    "n_pred": 12082,
+                    "n_ref": 13281
+                }
+            },
+            "prediction_file": "/home/usama/nnunet/nnUNet_results/Dataset006_Lung/nnUNetTrainer_250epochs__nnUNetPlans__3d_lowres/fold_0/validation/lung_046.nii.gz",
+            "reference_file": "/home/usama/nnunet/nnUNet_preprocessed/Dataset006_Lung/gt_segmentations/lung_046.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8392533056779881,
+                    "FN": 767,
+                    "FP": 473,
+                    "IoU": 0.7230288139379049,
+                    "TN": 84405891,
+                    "TP": 3237,
+                    "n_pred": 3710,
+                    "n_ref": 4004
+                }
+            },
+            "prediction_file": "/home/usama/nnunet/nnUNet_results/Dataset006_Lung/nnUNetTrainer_250epochs__nnUNetPlans__3d_lowres/fold_0/validation/lung_048.nii.gz",
+            "reference_file": "/home/usama/nnunet/nnUNet_preprocessed/Dataset006_Lung/gt_segmentations/lung_048.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6564102564102564,
+                    "FN": 329,
+                    "FP": 1279,
+                    "IoU": 0.48854961832061067,
+                    "TN": 57144248,
+                    "TP": 1536,
+                    "n_pred": 2815,
+                    "n_ref": 1865
+                }
+            },
+            "prediction_file": "/home/usama/nnunet/nnUNet_results/Dataset006_Lung/nnUNetTrainer_250epochs__nnUNetPlans__3d_lowres/fold_0/validation/lung_059.nii.gz",
+            "reference_file": "/home/usama/nnunet/nnUNet_preprocessed/Dataset006_Lung/gt_segmentations/lung_059.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8364013667507468,
+                    "FN": 8029,
+                    "FP": 1116,
+                    "IoU": 0.7188057315048275,
+                    "TN": 33521910,
+                    "TP": 23377,
+                    "n_pred": 24493,
+                    "n_ref": 31406
+                }
+            },
+            "prediction_file": "/home/usama/nnunet/nnUNet_results/Dataset006_Lung/nnUNetTrainer_250epochs__nnUNetPlans__3d_lowres/fold_0/validation/lung_065.nii.gz",
+            "reference_file": "/home/usama/nnunet/nnUNet_preprocessed/Dataset006_Lung/gt_segmentations/lung_065.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8050091880487307,
+                    "FN": 2131,
+                    "FP": 734,
+                    "IoU": 0.6736530356532635,
+                    "TN": 63167925,
+                    "TP": 5914,
+                    "n_pred": 6648,
+                    "n_ref": 8045
+                }
+            },
+            "prediction_file": "/home/usama/nnunet/nnUNet_results/Dataset006_Lung/nnUNetTrainer_250epochs__nnUNetPlans__3d_lowres/fold_0/validation/lung_066.nii.gz",
+            "reference_file": "/home/usama/nnunet/nnUNet_preprocessed/Dataset006_Lung/gt_segmentations/lung_066.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.6175012394645513,
+                    "FN": 589,
+                    "FP": 2497,
+                    "IoU": 0.44665590819436973,
+                    "TN": 69724727,
+                    "TP": 2491,
+                    "n_pred": 4988,
+                    "n_ref": 3080
+                }
+            },
+            "prediction_file": "/home/usama/nnunet/nnUNet_results/Dataset006_Lung/nnUNetTrainer_250epochs__nnUNetPlans__3d_lowres/fold_0/validation/lung_070.nii.gz",
+            "reference_file": "/home/usama/nnunet/nnUNet_preprocessed/Dataset006_Lung/gt_segmentations/lung_070.nii.gz"
+        },
+        {
+            "metrics": {
+                "1": {
+                    "Dice": 0.8088905082893059,
+                    "FN": 753,
+                    "FP": 296,
+                    "IoU": 0.6791067604772102,
+                    "TN": 65794875,
+                    "TP": 2220,
+                    "n_pred": 2516,
+                    "n_ref": 2973
+                }
+            },
+            "prediction_file": "/home/usama/nnunet/nnUNet_results/Dataset006_Lung/nnUNetTrainer_250epochs__nnUNetPlans__3d_lowres/fold_0/validation/lung_079.nii.gz",
+            "reference_file": "/home/usama/nnunet/nnUNet_preprocessed/Dataset006_Lung/gt_segmentations/lung_079.nii.gz"
+        }
+    ]
+}
